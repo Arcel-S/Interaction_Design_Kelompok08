@@ -9,9 +9,9 @@
 ## 📖 Latar Belakang Masalah
 
 Di lingkungan pendidikan tinggi, kesejahteraan psikologis adalah hal krusial. Namun, berdasarkan riset kami di Institut Teknologi Sumatera (ITERA):
-***41% mahasiswa** pernah mengalami/menyaksikan perundungan.
-***Ketakutan akan Stigma:** Mahasiswa enggan melapor karena takut dicap "bermasalah".
-***Kebutuhan Privasi:** 79,2% responden hanya bersedia melapor jika ada jaminan **anonimitas penuh**.
+**41% mahasiswa** pernah mengalami/menyaksikan perundungan.
+**Ketakutan akan Stigma:** Mahasiswa enggan melapor karena takut dicap "bermasalah".
+**Kebutuhan Privasi:** 79,2% responden hanya bersedia melapor jika ada jaminan **anonimitas penuh**.
 
 IteraCare hadir sebagai solusi untuk menjembatani kesenjangan ini melalui pendekatan *User-Centered Design*.
 
@@ -47,13 +47,13 @@ Proyek ini dikembangkan menggunakan kerangka kerja **Double Diamond**:
 Kami melakukan pengujian menggunakan metode campuran (*Mixed Methods*):
 
 ### 1. System Usability Scale (SUS)
-***Skor:** **85.73*.
-***Grade:** A (Excellent).
-***Kesimpulan:** Prototype dinilai sangat mudah digunakan (Acceptable) oleh 44 responden mahasiswa.
+**Skor:** 85.73
+**Grade:** A (Excellent)
+**Kesimpulan:** Prototype dinilai sangat mudah digunakan (Acceptable) oleh 44 responden mahasiswa.
 
 ### 2. Think Aloud (Kualitatif)
-***Temuan:** Awalnya pengguna kesulitan menemukan *Panic Button* karena warnanya ungu.
-***Iterasi:** Warna tombol diubah menjadi **Merah** untuk meningkatkan hierarki visual dan urgensi.
+**Temuan:** Awalnya pengguna kesulitan menemukan *Panic Button* karena warnanya ungu.
+**Iterasi:** Warna tombol diubah menjadi **Merah** untuk meningkatkan hierarki visual dan urgensi.
 
 ---
 
