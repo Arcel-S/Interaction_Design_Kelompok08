@@ -82,9 +82,11 @@ Proyek ini disusun oleh **Kelompok 08** dari Program Studi Teknik Informatika, I
 
 ## 🛠️ Tools
 
-* ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) **Figma** (Prototyping)
-* **Google Forms** (User Research & SUS)
-* **Spreadsheet** (Data Analysis)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Google Forms](https://img.shields.io/badge/Google%20Forms-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+- **Figma** - Prototyping & Design
+- **Google Forms** - User Research & SUS Testing
+- **Google Sheets** - Data Analysis
 
 ---
 *Dibuat tahun 2025 - Institut Teknologi Sumatera*
