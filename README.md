@@ -1,11 +1,5 @@
 # 🛡️ IteraCare: Platform Dukungan Kesehatan Mental & Anti-Perundungan ITERA
 
-![Project Banner]([Masukkan Link Gambar Banner/Homepage Disini])
-
-> **IteraCare** adalah perancangan desain antarmuka (High-Fidelity Prototype) website yang bertujuan menyediakan ruang aman bagi sivitas akademika ITERA untuk melaporkan kasus perundungan dan mengakses dukungan kesehatan mental secara anonim dan inklusif.
-
----
-
 ## 📖 Latar Belakang Masalah
 
 Di lingkungan pendidikan tinggi, kesejahteraan psikologis adalah hal krusial. Namun, berdasarkan riset kami di Institut Teknologi Sumatera (ITERA):
